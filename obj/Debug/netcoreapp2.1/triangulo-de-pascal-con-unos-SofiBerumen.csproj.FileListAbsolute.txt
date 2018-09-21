@@ -1,0 +1,11 @@
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.csprojAssemblyReference.cache
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.csproj.CoreCompileInputs.cache
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.AssemblyInfoInputs.cache
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.AssemblyInfo.cs
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.deps.json
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.runtimeconfig.json
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.runtimeconfig.dev.json
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.dll
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.pdb
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.dll
+C:\Users\Residentes\CursoNET\triangulo-de-pascal-con-unos-SofiBerumen\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-SofiBerumen.pdb
