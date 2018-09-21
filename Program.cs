@@ -19,10 +19,12 @@ namespace triangulo_de_pascal_con_unos_SofiBerumen
                 }
                 
                 for(int j=0; j<i; j++){
-                    Console.Write("* ");
+                    Console.Write("1 ");
                 }
                 Console.Write("\n");
                 n--;
+
+
             }
         }
 
